@@ -1,0 +1,33 @@
+body{
+    font-family: 'Lora', serif;
+    margin-top:0;
+    color:#1A0404;
+}
+header{
+    text-align:center;
+    margin-bottom:45px;
+}
+header .page-title{
+    font-family: 'Ubuntu', sans-serif;
+    color:#561515;
+    font-size: 36px;
+    margin-bottom:15px;
+}
+span{
+    display:block;
+    color: rgba(26, 4, 4, 0.6);
+    font-size: 12px;
+    margin-bottom:5px;
+}
+.container{
+    padding:0;
+    max-width: calc(100% - 72px);
+    margin: 0 auto;
+}
+main .title{
+    font-family: 'Ubuntu', sans-serif;
+    margin-bottom:10px;
+    margin-top:15px;
+    font-size: 18px;
+    color: #561515;
+}
